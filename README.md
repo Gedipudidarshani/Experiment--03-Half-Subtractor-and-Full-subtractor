@@ -1,4 +1,6 @@
 # Exp-04-Half-Subtractor-and-Full-subtractor
+### Name:Gedipudi Darshani
+### Register Number:212223230062
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -15,8 +17,8 @@ The half-subtractor is a combinational circuit which is used to perform subtract
 ![half-subtractor9](https://user-images.githubusercontent.com/36288975/166112538-58c3bc7c-ee5d-4e6a-ac8d-8e8328efe27a.png)
 
 
-Sum = X'Y+XY' = X ⊕ Y
-Carry=X'Y
+Diff = X'Y+XY' = X ⊕ Y
+Borrow=X'Y
 
 ## Full Subtractor
 A full subtractor is a combinational circuit that performs subtraction involving three bits, namely minuend, subtrahend, and borrow-in . It accepts three inputs: minuend, subtrahend and a borrow bit and it produces two outputs: difference and borrow. 
